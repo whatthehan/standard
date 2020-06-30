@@ -38,18 +38,18 @@
 1. VS Code
 
    - 安装 `Prettier` 插件
-     ![Perttier插件]('./images/img2.png')
+     ![Perttier插件](./images/img2.png)
    - 设置保存时格式化
-     ![Setting]('./images/img1.png')
+     ![Setting](./images/img1.png)
    - 设置默认格式化工具为 `Prettier`
 
 2. WebStorm
    - 安装 `Prettier` 插件
-     ![Perttier插件]('./images/img3.png')
+     ![Perttier插件](./images/img3.png)
    - 设置 File Watchers
-     ![Setting]('./images/img4')
+     ![Setting](./images/img4.png)
    - 设置自动开启 eslint
-     ![auto]('./images/img5.png')
+     ![auto](./images/img5.png)
 
 ## 编码规范
 
